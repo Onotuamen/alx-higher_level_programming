@@ -1,6 +1,2 @@
 #!/bin/bash
-
-# this is a smple shell ecript to run a python script
-
 python3 $PYFILE
-
